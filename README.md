@@ -16,7 +16,7 @@ BASIC CALCULATOR INPUTS:
 Commands and Operations:
 - C (Stands for clear) = Removes operations, numbers, equations, or results from the display.
 - OFF = It imitates a behaviour of a normal calculator, which means that this programme will exit as you click.
-- + (Addition symbol) = Operation that adds between numbers. This will result in a total in the calculator display.
+- "+" (Addition symbol) = Operation that adds between numbers. This will result in a total in the calculator display.
 - "-" (Subtraction or negative symbol) = Operation that subtracts between numbers. This will result in a difference in the calculator display. Not only that, this symbol will apply into a number as a negative value.
 - × (Multiplication symbol) = Operation that multiplies between numbers. This will result in a product in the calculator display.
 - ÷ (Division symbol) = Operation that divides between numbers. This will result in a division in the calculator display.
