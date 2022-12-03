@@ -14,25 +14,25 @@ ADDITIONAL NOTE:
 
 BASIC CALCULATOR INPUTS:
 Commands and Operations:
-C (Stands for clear) = Removes operations, numbers, equations, or results from the display.
-OFF = It imitates a behaviour of a normal calculator, which means that this programme will exit as you click.
-+ (Addition symbol) = Operation that adds between numbers. This will result in a total in the calculator display.
-- (Subtraction or negative symbol) = Operation that subtracts between numbers. This will result in a difference in the calculator display. Not only that, this symbol will apply into a number as a negative value.
-× (Multiplication symbol) = Operation that multiplies between numbers. This will result in a product in the calculator display.
-÷ (Division symbol) = Operation that divides between numbers. This will result in a division in the calculator display.
-"=" (Equal symbol) = This symbol represents the result of a problem.
+- C (Stands for clear) = Removes operations, numbers, equations, or results from the display.
+- OFF = It imitates a behaviour of a normal calculator, which means that this programme will exit as you click.
+- + (Addition symbol) = Operation that adds between numbers. This will result in a total in the calculator display.
+- "-" (Subtraction or negative symbol) = Operation that subtracts between numbers. This will result in a difference in the calculator display. Not only that, this symbol will apply into a number as a negative value.
+- × (Multiplication symbol) = Operation that multiplies between numbers. This will result in a product in the calculator display.
+- ÷ (Division symbol) = Operation that divides between numbers. This will result in a division in the calculator display.
+- "=" (Equal symbol) = This symbol represents the result of a problem.
 
 Numbers:
-0 = Inputs a number, which is 0. This calculator display will show 0.
-1 = Inputs a number, which is 1. This calculator display will show 1.
-2 = Inputs a number, which is 2. This calculator display will show 2.
-3 = Inputs a number, which is 3. This calculator display will show 3.
-4 = Inputs a number, which is 4. This calculator display will show 4.
-5 = Inputs a number, which is 5. This calculator display will show 5.
-6 = Inputs a number, which is 6. This calculator display will show 6.
-7 = Inputs a number, which is 7. This calculator display will show 7.
-8 = Inputs a number, which is 8. This calculator display will show 8.
-9 = Inputs a number, which is 9. This calculator display will show 9.
+- 0 = Inputs a number, which is 0. This calculator display will show 0.
+- 1 = Inputs a number, which is 1. This calculator display will show 1.
+- 2 = Inputs a number, which is 2. This calculator display will show 2.
+- 3 = Inputs a number, which is 3. This calculator display will show 3.
+- 4 = Inputs a number, which is 4. This calculator display will show 4.
+- 5 = Inputs a number, which is 5. This calculator display will show 5.
+- 6 = Inputs a number, which is 6. This calculator display will show 6.
+- 7 = Inputs a number, which is 7. This calculator display will show 7.
+- 8 = Inputs a number, which is 8. This calculator display will show 8.
+- 9 = Inputs a number, which is 9. This calculator display will show 9.
 
 MISCELLANEOUS:
-. = Inputs a dot, it shows the decimal value of a number.
+- . = Inputs a dot, it shows the decimal value of a number.
